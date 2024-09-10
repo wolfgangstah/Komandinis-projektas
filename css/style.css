@@ -1,0 +1,14 @@
+.header {
+    display: inline;
+    align-items: center;
+    justify-content: center;
+    
+    background-color: #90903b;
+}
+
+div{
+    display: inline;
+    padding: 20px;
+    background-color: #90903b;
+}
+
